@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -na /root/holbertonschool-shell/basics/ /boot | sort
+ls -na /root/holbertonschool-shell/basics/ /boot
