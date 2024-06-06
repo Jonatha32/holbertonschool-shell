@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'hello!' > ls_cwd_content
+ls -la > ls_cwd_content
